@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#FAFAF7" />
+  <circle cx="1035" cy="105" r="270" fill="#EFF3EC" />
+  <circle cx="1120" cy="470" r="240" fill="#EFF3EC" />
+  <circle cx="1020" cy="300" r="188" fill="none" stroke="#DFE8D8" />
+  <circle cx="1020" cy="300" r="132" fill="#DFE8D8" fill-opacity="0.55" />
+
+  <!-- Phone silhouette -->
+  <g transform="rotate(7 1030 315)">
+    <rect x="936" y="120" width="212" height="400" rx="38" fill="#20241F" />
+    <rect x="944" y="128" width="196" height="384" rx="32" fill="#FFFFFF" />
+    <rect x="944" y="128" width="196" height="120" rx="32" fill="#5F9B72" />
+    <rect x="944" y="200" width="196" height="48" fill="#5F9B72" />
+    <rect x="1004" y="136" width="76" height="16" rx="8" fill="#20241F" />
+    <circle cx="1042" cy="380" r="52" fill="none" stroke="#EFF3EC" stroke-width="16" />
+    <path d="M1042 328a52 52 0 0 1 38 88" fill="none" stroke="#5F9B72" stroke-width="16" stroke-linecap="round" />
+    <rect x="972" y="462" width="140" height="10" rx="5" fill="#EFF3EC" />
+    <rect x="972" y="482" width="96" height="10" rx="5" fill="#E9EBE5" />
+  </g>
+
+  <!-- Brand -->
+  <g>
+    <rect x="88" y="76" width="38" height="38" rx="10" fill="#647D5D" />
+    <path d="M101 86v14.5c0 .8.7 1.5 1.5 1.5H112" fill="none" stroke="#FAFAF7" stroke-width="3.4" stroke-linecap="round" />
+    <circle cx="114" cy="87" r="6" fill="#A4BA99" />
+    <text x="140" y="104" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="4" fill="#252923">LUSIANA.</text>
+  </g>
+
+  <text x="88" y="205" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="3" fill="#647D5D">UI/UX DESIGNER · PORTFOLIO 2026</text>
+
+  <text x="88" y="288" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2.8" fill="#252923">Designing digital</text>
+  <text x="88" y="356" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2.8" fill="#252923">experiences that feel</text>
+  <text x="88" y="424" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2.8" fill="#647D5D">simple and meaningful.</text>
+
+  <line x1="88" y1="490" x2="560" y2="490" stroke="#E9EBE5" stroke-width="1.5" />
+  <text x="88" y="534" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6F756C">Featuring Nutriva — a nutrition-focused mobile app concept.</text>
+  <text x="88" y="562" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#8A9087">Case study · Mobile UI/UX design</text>
+</svg>
