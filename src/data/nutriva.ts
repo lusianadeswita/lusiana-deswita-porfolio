@@ -456,6 +456,9 @@ const nutrivaEn = {
 
 export type Nutriva = typeof nutrivaEn
 
+/** English content used by the case study components and galleries. */
+export const Nutriva = nutrivaEn
+
 const nutrivaId: Nutriva = {
   name: 'Nutriva',
   tagline: 'Membuat pola makan sehat terasa lebih sederhana',

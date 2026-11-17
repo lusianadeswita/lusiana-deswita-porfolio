@@ -1,4 +1,4 @@
-import { nutriva } from '../../data/nutriva'
+import { Nutriva as nutriva } from '../../data/nutriva'
 import { useActiveSection } from '../../hooks/useActiveSection'
 import { cn } from '../../lib/utils'
 

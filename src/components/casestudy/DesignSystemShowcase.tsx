@@ -9,7 +9,7 @@ import {
   Search,
   User,
 } from 'lucide-react'
-import { nutriva } from '../../data/nutriva'
+import { Nutriva as nutriva } from '../../data/nutriva'
 import { FoodArt } from '../FoodArt'
 import { cn } from '../../lib/utils'
 

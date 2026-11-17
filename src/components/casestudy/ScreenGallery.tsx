@@ -1,10 +1,13 @@
 import { ArrowRight } from 'lucide-react'
-import { nutriva } from '../../data/nutriva'
+import { Nutriva as nutriva } from '../../data/nutriva'
+import { copy } from '../../i18n/copy'
 import { PhoneMockup } from '../PhoneMockup'
 import { NutrivaScreen } from '../nutriva/NutrivaScreens'
-import { screenDescriptions, screenTone } from '../nutriva/screenMeta'
+import { screenTone } from '../nutriva/screenMeta'
 import { WireframeScreen } from '../nutriva/WireframePhone'
 import { Reveal } from '../AnimationWrapper'
+
+const screenDescriptions = copy.en.caseStudy.screenDescriptions
 
 const railBase =
   'no-scrollbar -mx-5 flex snap-x snap-mandatory gap-5 overflow-x-auto px-5 pb-2 sm:mx-0 sm:grid sm:gap-6 sm:overflow-visible sm:px-0 sm:pb-0'

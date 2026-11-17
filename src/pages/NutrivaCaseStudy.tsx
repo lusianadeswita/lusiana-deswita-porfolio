@@ -1,6 +1,6 @@
 import { ArrowLeft, Info, Quote } from 'lucide-react'
 import { Link } from 'react-router-dom'
-import { nutriva } from '../data/nutriva'
+import { Nutriva as nutriva } from '../data/nutriva'
 import { useDocumentMeta } from '../hooks/useDocumentMeta'
 import { Reveal } from '../components/AnimationWrapper'
 import { Button } from '../components/Button'
